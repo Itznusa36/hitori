@@ -51,7 +51,7 @@ global.mess = {
 	group: ' Gunakan Di Group!',
 	private: 'Gunakan Di Privat Chat!',
 	prem: 'Khusus User Premium!',
-	wait: 'mohon bersabar',
+	wait: 'tunggu...',
 	error: 'maaf terjadi kesalahan!',
 	done: 'done✔️'
 }

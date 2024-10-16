@@ -10,10 +10,10 @@ const chalk = require('chalk');
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
 global.owner = ['6285751464398']
-global.packname = 'Bot WhatsApp'
-global.author = 'itznusa'
-global.botname = 'nusa-Bot'
-global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.packname = '𝘉𝘖𝘛 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝗕𝗬'
+global.author = '𝙞𝙩𝙯𝙣𝙪𝙨𝙖'
+global.botname = '𝑛𝑢𝑠𝑎-𝑏𝑜𝑡'
+global.listv = ['•','●','','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
 
@@ -45,15 +45,15 @@ global.uang = {
 }
 
 global.mess = {
-	owner: 'Fitur Khusus Owner!',
-	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
-	group: ' Gunakan Di Group!',
-	private: 'Gunakan Di Privat Chat!',
-	prem: 'Khusus User Premium!',
-	wait: 'tunggu...',
-	error: 'maaf terjadi kesalahan!',
-	done: 'done✔️'
+	owner: 'ｆｉｔｕｒ ｉｎｉ Ｋｈｕｓｕｓ Ｏｗｎｅｒ ｂｏｔ!',
+	admin: 'Ｆｉｔｕｒ ｉｎｉ Ｋｈｕｓｕｓ Ａｄｍｉｎ!',
+	botAdmin: 'Ｂｏｔ Ｂｕｋａｎ Ａｄｍｉｎ!',
+	group: ' Ｇｕｎａｋａｎ Ｄｉ Ｇｒｏｕｐ!',
+	private: 'Ｇｕｎａｋａｎ Ｄｉ Ｐｒｉｖａｔ Ｃｈａｔ!',
+	prem: 'Ｋｈｕｓｕｓ Ｕｓｅｒ Ｐｒｅｍｉｕｍ!',
+	wait: 'ｔｕｎｇｇｕ ｙａ',
+	error: 'ｍａａｆ ｔｅｒｊａｄｉ ｋｅｓａｌａｈａｎ!:( ',
+	done: 'ｄｏｎｅ✔️'
 }
 
 global.APIs = {

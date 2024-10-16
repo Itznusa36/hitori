@@ -13,7 +13,7 @@ global.owner = ['6285751464398']
 global.packname = '𝘉𝘖𝘛 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝗕𝗬'
 global.author = '𝙞𝙩𝙯𝙣𝙪𝙨𝙖'
 global.botname = '𝑛𝑢𝑠𝑎-𝑏𝑜𝑡'
-global.listv = ['•','●','','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.listv = ['👉🏻','>','✔️','◕','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 global.pairing_code = true
 

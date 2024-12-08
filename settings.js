@@ -1,6 +1,6 @@
 const fs = require('fs');
 const chalk = require('chalk');
-.
+
 /*
 	* Create By Naze
 	* Follow https://github.com/nazedev
@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','0']
-global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.owner = ['6282192834347']
+global.packname = 'ᑲ᥆𝗍 ძᥲrі ᥕᥲ'
+global.author = '𝙞𝙩𝙯𝙣𝙪𝙨𝙖'
+global.botname = '𝙞𝙩𝙯𝙣𝙪𝙨𝙖'
 global.listprefix = ['+','!']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -28,8 +28,8 @@ global.fake = {
 
 global.my = {
 	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
+	gh: 'tiktok.com/@itz.nusa',
+	gc: 'https://chat.whatsapp.com/L7ru2wEgu8O6VWtkfdD61a',
 	ch: '120363250409960161@newsletter',
 }
 

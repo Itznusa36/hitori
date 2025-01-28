@@ -49,13 +49,13 @@ global.mess = {
 	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
 	owner: 'Fitur Khusus Owner!',
 	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
-	group: 'Gunakan Di Group!',
-	private: 'Gunakan Di Privat Chat!',
-	limit: 'Limit Anda Telah Habis!',
-	prem: 'Khusus User Premium!',
-	wait: 'sabar',
-	error: 'Error!',
+	botAdmin: 'Bot bukan lah Admin!',
+	group: 'gunain Di Group!',
+	private: 'Gunain Di Privat Chat!',
+	limit: 'Limit lu dah Habis!',
+	prem: 'Khusus penguna Premium!',
+	wait: 'memuat',
+	error: 'terjadi kesalahan!',
 	done: 'selesai'
 }
 

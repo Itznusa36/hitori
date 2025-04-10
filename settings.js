@@ -9,7 +9,7 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner
+global.owner = ['628211382.1188'] //['628','628'] 2 owner
 global.packname = 'Bot WhatsApp'
 global.author = 'Nazedev'
 global.botname = 'Naze Bot'
